@@ -1,0 +1,122 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.navbar{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.pizza-rica figure img{
+width: 100%;
+}
+h2{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #373A3C;
+    margin-right: 0;
+}
+.main-text h2{
+    width: 100%;
+}
+.main-text p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #373A3C;
+}
+hr{
+    border-width: 1px;
+    background-color: #373A3C;
+    width: 100%;
+}
+.btn-outline-dark{
+    color:#373A3C;
+    border-color: #DDDDDD;
+}
+.carousel-item img{
+width: 100%;
+height: 200px;
+}
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    margin:0 0;
+}
+.newsletter span{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+footer{
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+footer p{
+    margin:0;
+}
+.carousel-item{
+    height: 260px;
+}
+.carousel-indicators li {
+    width: 13px;
+    height: 13px;
+    border-radius: 100%;
+    bottom: -10px;
+    background-color:#373A3C;
+
+}
+.recipe h3, .recipe p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #373A3C;
+}
+.ingredientes {
+    text-align: left;
+}
+.ingredientes hr{
+    width: 30%; 
+}
+.newsletter{
+    color: #ffffff;
+}
+.recipe h3{
+    font-weight: 700;
+}
+.newsletter .container{
+    padding: 180px 0 180px;
+}
+.card h5{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    color: #373A3C;
+}
+.card p{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #373A3C;  
+}
+.suscribe h4{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;  
+}
+.suscribe h5{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color: #FFFFFF; 
+}
+.tooltip-inner{
+    background-color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #ffffff; 
+}
+.arrow{
+
+}
